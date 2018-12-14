@@ -14,3 +14,5 @@ code --install-extension vscjava.vscode-java-pack
 code --install-extension vscjava.vscode-java-test
 code --install-extension vscjava.vscode-maven
 code --install-extension xabikos.JavaScriptSnippets
+code --install-extension visualstudioexptteam.vscodeintellicode
+
