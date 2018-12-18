@@ -1,0 +1,5 @@
+[user]
+         name = alohaaloha
+         email = <TEMP_USER>
+[credential]
+         helper = cache --timeout 3600
