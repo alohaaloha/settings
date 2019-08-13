@@ -16,3 +16,5 @@ code --install-extension vscjava.vscode-maven
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension visualstudioexptteam.vscodeintellicode
 
+
+Bracket Pair Colorizer
