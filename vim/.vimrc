@@ -1,2 +1,1 @@
 set cursorline
-set cursorcolumn
