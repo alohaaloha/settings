@@ -13,3 +13,4 @@ code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscjava.vscode-java-pack
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension yzhang.markdown-all-in-one
+code --install-extension mohsen1.prettify-json
