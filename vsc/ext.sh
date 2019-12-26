@@ -15,3 +15,4 @@ code --install-extension xabikos.JavaScriptSnippets
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension mohsen1.prettify-json
 code --install-extension mquandalle.graphql
+code --install-extension ms-vscode.go
